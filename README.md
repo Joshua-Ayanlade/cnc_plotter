@@ -87,7 +87,9 @@ This CNC plotter implementation, based on the recommendation by <b>Joshua Ayanla
 ---
 
 ### 🚀 Future Improvements
+
 🌐 IoT integration for remote operation.
+
 ---
 
 ### 🌟 Acknowledgement
